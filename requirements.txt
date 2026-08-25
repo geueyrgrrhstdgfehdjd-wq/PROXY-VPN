@@ -1,0 +1,6 @@
+flask
+gunicorn
+opencv-python-headless
+numpy
+mss
+pyautogui
